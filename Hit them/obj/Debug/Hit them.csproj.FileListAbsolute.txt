@@ -1,0 +1,32 @@
+F:\лабы\решенные\3 курс\ООП\Hit them\Hit them\obj\Debug\App.g.cs
+F:\лабы\решенные\3 курс\ООП\Hit them\Hit them\obj\Debug\Hit them_MarkupCompile.cache
+F:\лабы\решенные\3 курс\ООП\Hit them\Hit them\obj\Debug\MainWindow.baml
+F:\лабы\решенные\3 курс\ООП\Hit them\Hit them\obj\Debug\ResultTable.baml
+F:\лабы\решенные\3 курс\ООП\Hit them\Hit them\obj\Debug\MainWindow.g.cs
+F:\лабы\решенные\3 курс\ООП\Hit them\Hit them\obj\Debug\ResultTable.g.cs
+F:\лабы\решенные\3 курс\ООП\Hit them\Hit them\obj\Debug\Hit them.g.resources
+F:\лабы\решенные\3 курс\ООП\Hit them\Hit them\obj\Debug\Hit_them.Properties.Resources.resources
+F:\лабы\решенные\3 курс\ООП\Hit them\Hit them\obj\Debug\Hit them.csproj.GenerateResource.Cache
+F:\лабы\решенные\3 курс\ООП\Hit them\Hit them\bin\Debug\Hit them.exe
+F:\лабы\решенные\3 курс\ООП\Hit them\Hit them\bin\Debug\Hit them.pdb
+F:\лабы\решенные\3 курс\ООП\Hit them\Hit them\obj\Debug\Hit them.exe
+F:\лабы\решенные\3 курс\ООП\Hit them\Hit them\obj\Debug\Hit them.pdb
+F:\лабы\решенные\3 курс\ООП\Hit them\Hit them\obj\Debug\Beaverland.baml
+F:\лабы\решенные\3 курс\ООП\Hit them\Hit them\obj\Debug\Beaverland.g.cs
+d:\Projects\C#\WPF\Hit them\Hit them\obj\Debug\Hit them.exe
+d:\Projects\C#\WPF\Hit them\Hit them\obj\Debug\Hit them.pdb
+d:\Projects\C#\WPF\Hit them\Hit them\bin\Debug\Hit them.exe
+d:\Projects\C#\WPF\Hit them\Hit them\bin\Debug\Hit them.pdb
+d:\Projects\C#\WPF\Hit them\Hit them\obj\Debug\Hit them.csprojResolveAssemblyReference.cache
+d:\Projects\C#\WPF\Hit them\Hit them\obj\Debug\MainWindow.baml
+d:\Projects\C#\WPF\Hit them\Hit them\obj\Debug\ResultTable.baml
+d:\Projects\C#\WPF\Hit them\Hit them\obj\Debug\Beaverland.g.cs
+d:\Projects\C#\WPF\Hit them\Hit them\obj\Debug\MainWindow.g.cs
+d:\Projects\C#\WPF\Hit them\Hit them\obj\Debug\ResultTable.g.cs
+d:\Projects\C#\WPF\Hit them\Hit them\obj\Debug\App.g.cs
+d:\Projects\C#\WPF\Hit them\Hit them\obj\Debug\Hit them_MarkupCompile.cache
+d:\Projects\C#\WPF\Hit them\Hit them\obj\Debug\Beaverland.baml
+d:\Projects\C#\WPF\Hit them\Hit them\obj\Debug\Hit them.g.resources
+d:\Projects\C#\WPF\Hit them\Hit them\obj\Debug\Hit_them.Properties.Resources.resources
+d:\Projects\C#\WPF\Hit them\Hit them\obj\Debug\Hit them.csproj.GenerateResource.Cache
+F:\лабы\решенные\3 курс\ООП\Hit them\Hit them\obj\Debug\Hit them.csprojResolveAssemblyReference.cache

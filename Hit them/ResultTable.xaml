@@ -1,0 +1,17 @@
+﻿<Window x:Class="Hit_them.ResultTable"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="ResultTable" Height="308" Width="495">
+    <Grid>
+        <DataGrid AutoGenerateColumns="False" IsReadOnly="True" CanUserAddRows="False" CanUserDeleteRows="False" 
+                  Height="250" ColumnWidth="*" HorizontalAlignment="Left" Margin="12,12,0,0" Name="ResultDataGrid" VerticalAlignment="Top" Width="450" ItemsSource="{Binding}">
+            <DataGrid.Columns>
+                <!--<DataGridTextColumn x:Name="cID" Binding="{Binding ID}" Header="ID" />-->
+                <DataGridTextColumn x:Name="cName" Binding="{Binding Name}" Header="Name" />
+                <DataGridTextColumn x:Name="cScore" Binding="{Binding Score}" Header="Score" />
+                <DataGridTextColumn x:Name="cLevel" Binding="{Binding Level}" Header="Level" />
+                <DataGridTextColumn x:Name="cDate" Binding="{Binding Date,StringFormat={}\{0:dd/MM/yyyy\}}" Header="Date"  IsReadOnly="True"  />
+            </DataGrid.Columns>
+        </DataGrid>
+    </Grid>
+</Window>
